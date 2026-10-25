@@ -1,6 +1,6 @@
 # Analytics Engineer Portfolio
 
-Welcome to my GitHub portfolio! I’m a Analytics Engineer. These projects show data modelling using Excel, Neo4j and Python, highlighting real-world applications.
+Welcome to my GitHub portfolio! I’m an Analytics Engineer. These projects show data modelling using Excel, Neo4j and Python, highlighting real-world applications.
 
 Click on each project to explore the full repo and see the work in detail.
 
@@ -9,7 +9,7 @@ Click on each project to explore the full repo and see the work in detail.
 ## Projects
 
 **Supermarket Product Deduplication & Knowledge Graph (Neo4j)**  
-Built an end-to-end data pipeline to clean, standardize, and deduplicate supermarket product data, modeling it into a Neo4j knowledge graph that enables unified product search and cross-retailer price comparison across multiple New Zealand supermarkets.
+Built an end-to-end data pipeline to clean, standardize, and deduplicate supermarket product data, modelling it into a Neo4j knowledge graph that enables unified product search and cross-retailer price comparison across multiple New Zealand supermarkets.
 **Repo link:** https://github.com/MantejSingh333/Supermarket-Product-Deduplication-Knowledge-Graph-Neo4j
 
 **Customer Cost Analysis & Visualization (Python)**  

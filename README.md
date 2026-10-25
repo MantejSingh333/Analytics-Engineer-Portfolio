@@ -1,6 +1,6 @@
 # Analytics Engineer Portfolio
 
-Welcome to my GitHub portfolio! I’m a Analytics Engineer. This collection showcases projects in data modelling using Excel, Neo4j and Python, highlighting real-world applications.
+Welcome to my GitHub portfolio! I’m a Analytics Engineer. These projects show data modelling using Excel, Neo4j and Python, highlighting real-world applications.
 
 Click on each project to explore the full repo and see the work in detail.
 

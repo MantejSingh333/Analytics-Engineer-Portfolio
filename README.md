@@ -1,6 +1,6 @@
 # Analytics Engineer Portfolio
 
-Welcome to my GitHub portfolio! I’m a Analytic Engineer with experience in Python, SQL, Excel, Power BI, and Neo4j. This collection showcases projects in data cleaning, transformation, analysis, and visualization, highlighting real-world applications and actionable insights.
+Welcome to my GitHub portfolio! I’m a Analytics Engineer with experience in Python, SQL, Excel, Power BI, and Neo4j. This collection showcases projects in data cleaning, transformation, analysis, and visualization, highlighting real-world applications and actionable insights.
 
 Click on each project to explore the full repo and see the work in detail.
 
